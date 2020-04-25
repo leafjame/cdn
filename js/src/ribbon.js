@@ -90,7 +90,7 @@
     this._options = {
       colorSaturation: "80%",
       colorBrightness: "60%",
-      colorAlpha: 0.65,
+      colorAlpha: 0.15,
       colorCycleSpeed: 6,
       verticalPosition: "center",
       horizontalSpeed: 200,
